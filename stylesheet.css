@@ -95,7 +95,7 @@ contactのタイトルが画面下にきたタイミングで、jqueryのfadeout
 ※main.jsの「accessの背景画面を表示」を参照
 */
 .bg {
-    background: url("../img/bg.jpeg"); center center repeat !important;
+    background: url("https://sil52.github.io/sitegithub.io/img/bg.jpeg"); center center repeat !important;
     width: 100vw;
     height: 100vh;
     position: fixed;
